@@ -34,4 +34,4 @@ export default connect(
     toggle,
     remove
   }
-)(TodosContainer)
+)(TodosContainer);
